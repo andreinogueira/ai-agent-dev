@@ -9,7 +9,9 @@ This project contains experiments and development of AI agents using Azure OpenA
 3. Install dependencies from `requirements.txt`
 4. Add your `.env` file with Azure API credentials
 
+This project is an AI agent development demo.
+
 ## Running
 
-```bash
+```bashgit
 python main.py
